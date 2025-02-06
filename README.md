@@ -1,2 +1,2 @@
 # FoodieFrames
-Galleries de photos pour mes recettes et des inventions culinaires
+Galeries de photos pour mes recettes et des inventions culinaires
